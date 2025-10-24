@@ -2,8 +2,8 @@
 批量下载禁漫本子\
 一个用gpt写的破烂脚本，初衷是有沙比基友不会用jm，让我帮他下本子，然后他copy了一堆本子号……\
 难绷。\
-环境：python
-需要安装以下包\
+环境：python\
+需要安装以下包
 ```
 pip install jmcomic==2.6.9
 pip install pillow
